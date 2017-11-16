@@ -29,7 +29,8 @@ body{
 .subir{
     width: 25%;
     /*width: 25%;*/
-    float: left; 
+    float: left;
+    text-align: right;
 }
 .subir img{
     width: 48px;
@@ -38,4 +39,8 @@ body{
      width: 25%;
    /* width: 25%;*/
     float: left;
+}
+.topmain{
+    width: 25%
+    
 }
