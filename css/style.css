@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color: blue;
+}
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background-color: purple;
+    text-align: center;
+}
+.header{
+    width: 100%;
+    float: left;
+    background-color: hotpink;
+}
+.desplegable{
+    width: 25%;
+    float: left;
+    text-align: left;
+}
+.desplegable img {
+    width: 48px;
+}
+.titulo{
+     width: 25%;
+    /*width: 25%;*/
+    float: left;
+}
+.subir{
+    width: 25%;
+    /*width: 25%;*/
+    float: left; 
+}
+.subir img{
+    width: 48px;
+}
+.iniciarSesion{
+     width: 25%;
+   /* width: 25%;*/
+    float: left;
+}
